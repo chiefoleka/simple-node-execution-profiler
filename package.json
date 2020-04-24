@@ -1,12 +1,12 @@
 {
-  "name": "smallapp",
+  "name": "imple-node-execution-profiler",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple profiler to see how much time is spent on your middleware or route methods.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
-  "author": "",
+  "author": "https://github.com/chiefoleka",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
